@@ -1,0 +1,23 @@
+html{
+    font-size: 10px;
+}
+header,h3{
+    background-color: black;
+    color: aliceblue;
+    inline-size: 200px;
+    line-height: 50px;
+    text-align: center;
+}
+section{
+   display: flex;
+}
+div{
+    background-color: rgb(117, 45, 3);
+    margin: 5px;
+    width: 25%;
+    height: auto;;
+}
+p{
+    padding: 10px;
+    font-size: 12px;
+}
